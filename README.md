@@ -1,2 +1,2 @@
-# FruitNinja60Seconds
+# WorstFruitNinja!
 nothing
